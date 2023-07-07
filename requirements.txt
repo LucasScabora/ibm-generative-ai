@@ -1,0 +1,5 @@
+jupyterlab
+requests
+ibm-watson
+ibm_watson_machine_learning
+ibm-generative-ai[langchain]

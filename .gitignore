@@ -1,6 +1,9 @@
 # Data downloaded by examples and tests
 examples/user/adult.data.csv
 
+# Environment Variables
+*.env
+
 
 # Pickle files
 *.pkl
